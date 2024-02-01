@@ -1,15 +1,15 @@
 <?php
 
 // Enter the Google Maps API for your site
-define("GMAPS_API_KEY", "ABQIAAAA4T7AS90KUqGrNPOsl6eyCBS4mbmQPYGFaQoYTVDm_qb3IIB-WBSwfZE_KhJy2GpxCqBbVm7PoSKM9Q");
+define("GMAPS_API_KEY", "AIzaSyBHpXuC29X08pdyakBbRd8YMF4id1ARsBs");
 
 // Who should we email about errors etc?
-define("ADMIN_EMAIL", "jon@hexoc.com");
+define("ADMIN_EMAIL", "dontcare@givea.com");
 
 define("LOCATION_SAVE_ENABLE", true);
 
 // Path to the root of the git repo inc. trailing /
-define("ROOT", "/var/www/hab/predict/");
+define("ROOT", "/Users/dgregory/dev/erft/blueberry/cusf-standalone-predictor/");
 
 // Path to python virtualenv to use
 // define("PYTHON", ROOT . "ENV/bin/python");
